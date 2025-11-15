@@ -26,6 +26,11 @@ This assignment reads city information from a CSV file and computes the closest 
 It uses the great-circle distance formula, sorts results, and displays the 13 nearest cities.  
 The program uses lists and dictionaries and matches the required output exactly.
 
+### Homework 5 – Tic-Tac-Toe Game
+This assignment implements a fully playable 2-player Tic-Tac-Toe game in the console.
+The board updates after each move, user input is validated, and win conditions are checked for rows, columns, and diagonals.
+The program detects ties when the board is full.
+
 ### Homework 7 – Spelling Checker
 This project checks every word in a text file against a dictionary file.  
 It cleans punctuation, counts correct words, and records misspelled words.  
@@ -39,6 +44,7 @@ Ignite Technology Projects/
 ├── Homework 2/
 ├── Homework 3/
 ├── Homework 4/
+├── Homework 5/
 ├── Homework 6/
 └── Homework 7/
 ```
@@ -57,10 +63,10 @@ python3 "Homework 7"/main.py
 ```
 
 ## Skills Learned
-- Loops and conditionals  
-- Functions and modular code  
-- File reading and writing  
-- CSV parsing  
-- String cleanup and text processing  
-- Sorting and searching data  
-- Code organization and testing  
+- Loops and conditionals
+- Functions and modular code
+- File reading and writing
+- CSV parsing
+- String cleanup and text processing
+- Sorting and searching data
+- Code organization and testing
