@@ -21,15 +21,15 @@ This project converts latitude and longitude into a GeoPin barcode format.
 The program validates coordinate ranges, normalizes values, and encodes them using a provided algorithm.  
 The logic is split across two files, `barcode.py` and `main.py`.
 
-### Homework 6 – How Far
-This assignment reads city information from a CSV file and computes the closest cities to any city the user enters.  
-It uses the great-circle distance formula, sorts results, and displays the 13 nearest cities.  
-The program uses lists and dictionaries and matches the required output exactly.
-
 ### Homework 5 – Tic-Tac-Toe Game
 This assignment implements a fully playable 2-player Tic-Tac-Toe game in the console.
 The board updates after each move, user input is validated, and win conditions are checked for rows, columns, and diagonals.
 The program detects ties when the board is full.
+
+### Homework 6 – How Far
+This assignment reads city information from a CSV file and computes the closest cities to any city the user enters.  
+It uses the great-circle distance formula, sorts results, and displays the 13 nearest cities.  
+The program uses lists and dictionaries and matches the required output exactly.
 
 ### Homework 7 – Spelling Checker
 This project checks every word in a text file against a dictionary file.  
